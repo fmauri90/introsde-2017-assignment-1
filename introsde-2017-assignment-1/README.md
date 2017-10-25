@@ -1,6 +1,7 @@
 # Assignment 01: Reading/Writing objects to and from XML and JSON
 
 ## Maurizio Franchi (maurizio.franchi@unitn.it)
+## Student ID 166624
 
 
 
