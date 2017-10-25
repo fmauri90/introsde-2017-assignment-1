@@ -35,14 +35,14 @@ The class *HealthProfileReader* reads the information about the people stored in
 ```
 The requirements for this assignment are:
 
-**Based on [Lab 3](https://github.com/IntroSDE/introsde/lab03):**
+**Based on Lab 3:**
 
 1.3 Use xpath to implement methods like getWeight and getHeight (getWeight(personID) returns weight of a given person, the same for getHeight);  
 2.3 a function that print all the details for each person stored in the file people.xml;  
 3.3 a function that given the id, return the details of a person;  
 4.3 a function that print all people fulfilling a condition on the weight (>90);
 
-**Based on [Lab 4](https://github.com/IntroSDE/introsde/lab04):**
+**Based on Lab 4:**
     
 1.4 Create the XML schema XSD file for the example XML document of people;  
 2.4 convert the list of Java object Person into XML (marshalling to XML) using classes generated with JAXB XJC;  
@@ -81,7 +81,7 @@ In order to execute this project you need the following technologies (in the bra
 Then, clone the repository. Run in your terminal:
 
 ```
-git clone https://github.com/fmauri90/introsde-2015-assignment-1.git && cd introsde-2015-assignment-1
+git clone https://github.com/fmauri90/introsde-2017-assignment-1.git && cd introsde-2017-assignment-1
 ```
 
 and run the following command:
